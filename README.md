@@ -1,4 +1,4 @@
-## Notes for various (non-CS) Coursera courses, including, but not limited to:
+### Notes for various (non-CS) Coursera courses, including, but not limited to:
 
 1. Epidemiology: The Basic Science of Public Health, by University of North Carolina at Chapel Hill
 2. Social psychology, by Wesleyan University
