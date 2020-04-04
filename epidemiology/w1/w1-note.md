@@ -39,4 +39,67 @@
 - to evaluate intervention strategies:
 	- individual: changing individual behavior or risk factors. eg: smoking is bad for your lungs
 	- structural: promote health by altering structural context. eg: taxation of tobacco products
-
+### Person, place, time and population perspective
+#### Descriptive epidemiology
+Characteristics of:
+- Person
+- Place
+- Time
+Describes frequency and distribution of disease or risk factors in populations
+Used for:
+- evaluate trends
+- health status
+- new diseases
+- evaluate public health programs
+- identify problems
+#### Analytic epidemiology:
+studies:
+- risk factors
+- preventive factors
+uses:
+- comparison groups
+#### Two health perspective
+1. Biomedical perspective focuses on:
+	* agents causing disease.
+	* their mechanisms
+	* individual risk factors.
+but doesn't include social/environmental factors.
+2. Population perspective:
+	* social factors
+	* environmental factors
+looks at:
+1. proximal(downstream/micro level):
+	* genetic makeup
+	* age
+	* ethnicity
+	* gender
+	* immune status
+2. distal (upstream/macro level):
+	* community design
+	* education
+	* employment
+	* living/working conditions
+	* poverty
+3. underlying causes of health outcomes in populations:
+	* environmental
+	* economic
+	* social
+	* cultural
+**Example: lung cancer**
+- causes by carcinogens in cigarettes, mostly.
+- social mechanism inducing smoking in the past:
+	* status symbol
+	* sign of leisure
+	* media and movie stars
+	* smoking at work
+	* marketing to women (prior to which smoking had been seen as a masculine activity)
+	* women's suffrage (more exposure at work)
+**Example: diabetes**
+- genetic
+- physiological
+- psychological
+- familial
+- social
+- economic
+- cultural
+- political
