@@ -5,3 +5,12 @@
 - Example: "Research shows that physically attractive people are more/less intelligent than physicall unattractive people. True or false?" For each of the option (more/less), most people chose "True".
 =>  **Hindsight bias** = I knew-it-all-along effect
 => If you don't know what is coming, you can't tell what it will be. Sort of like unknown unknowns. It's easy to think that something's predictable the second you know that it's happened.
+### Do we share the same reality
+sadly our perceptions are influenced by:
+* what we're paying attention to
+* contextual factors, which differ for each person
+* past exp
+* expectations
+* motivations
+* etc
+- color changing card trick uses the change blindness phenomenon
