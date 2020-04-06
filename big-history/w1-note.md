@@ -20,6 +20,23 @@
 	2. authority: you can't become everything!!!
 	3. logic:
 	4. evidence: all the three above use evidence
-
-
+## How did our universe get more complex
+### First three thresholds
+1. the birth of the universe 13.8 billion years ago: 
+	- the universe is still expanding.
+	- the big bang theory could predict the flow of energy (cosmic background radiation) in the universe.
+	- what's the goldilocks condition for the creation of the universe?
+2. the appearance of the first stars:
+	- gravity makes materials clump together => star formation => huge energy from fusion. so gravity's the goldilocks condition here.
+3. the creation of a new chemical elements inside dying stars.
+	- more complex chemically: > 90 elements.
+	- energy flows: chemical energy
+	- goldilocks conditions: gravity > pressure inside the star
+	- emergence: diverse matters.
+## Why do we need to care about this: Life, universe, and everything
+- gives you a big picture so we can know where we are now when we need to.
+- is a transformative exp.
+- encourages transdisciplinarity: fusion of 'two cultures'.
+- improves critical thinking.
+- enables you to live a million lives.
  
