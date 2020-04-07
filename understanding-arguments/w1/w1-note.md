@@ -34,3 +34,29 @@ General laws/principles + initial conditions => conclusion
 ### Strong arguments don't always persuade everyone
 - But you succeeded in justifying the reason anyway.
 - Don't try to persuade **everybody**.
+### Arguments are made of language
+1. Language is impportant
+2. Language is conventional:
+3. Language is representational: Language can't change the facts of the world. is it?
+4. Language is social
+#### Rules in language that are important to arguments
+- (Linguistic) meanings: its use in normal situations.
+- Referrential/descriptive language don't cover abstract concepts.
+- Referrence is not the same as meaning. Two words can refer to the same thing and mean different things.
+1. A speech act occurs even if the intended effect doesn't occur.
+2. A linguistic act is a the utterance of a meaningful sentence.
+3. A conversational act is when you want an effect to happen.
+### Levels of language
+#### Linguistic acts
+- Follow grammar and syntax is enough. There has to be words in it.
+Eg: Buffalo buffalo buffalo buffalo buffalo
+This is a meaningful sentence. "Buffalo" can be a city in new york, to baffle  someone, and american bisons.
+- Even if a sentence is grammartically correct, it could still be not meaningful.
+- Buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo
+- My translation: Baffled Buffalo buffalo baffling baffled Buffalo buffalo baffle baffled Buffalo buffalo.
+### Speech acts
+- If a verb names a speech act, it gotta pass the **thereby** test: Use your word to change the world
+If I say, "I...," then I thereby... .
+- It has to be said in right circumstances:
+If I say, "I...," in appropriate circumstances, then I thereby... .
+- Arguments are speech acts.
