@@ -14,9 +14,9 @@
 * Establish rapport as quickly as possible is essential
 * Observe and listen
 * What you say will highly depend upon the situation, but generally:
-1. Introduce yourself in a respectful manner.
-2. Explain what you're doing
-3. Ask an initial question
+	1. Introduce yourself in a respectful manner.
+	2. Explain what you're doing
+	3. Ask an initial question
 ## Reflective listening tools: Questions
 * When you ask well phrased questions, a person in distress can feel a sense of value and participation in the solution of their problem, instead of telling them do this and do that.
 	* Skillfully asked questions can also convey a sense of *support*.
