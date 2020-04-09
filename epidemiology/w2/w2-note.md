@@ -8,7 +8,7 @@ For more details, look at the attached handouts.
 4. **Odds**: out of 100 births, the probability of having a boy is 51% and having a girl is 49%. Therefore, the odds of having a boy is 51 to 49 = 1.04
 ## Prevalent vs Indident cases
 | Incident cases | Prevalent cases |
-| :-------------- : | :---: |
+| :--------------: | :---: |
 | *new* cases (of disease) | *all* cases (of disease) |
 | individuals who change in status over a specific period of time | individuals with outcome of interest, regardless of when diagnosed |
 | calculate rates, risks | calculate prevalence |
