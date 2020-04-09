@@ -7,11 +7,11 @@ For more details, look at the attached handouts.
 3. **Rate**: the overall death rate from cardiovascular disease was 236.1 per 100,000 person-years in 2009 in the U.S.
 4. **Odds**: out of 100 births, the probability of having a boy is 51% and having a girl is 49%. Therefore, the odds of having a boy is 51 to 49 = 1.04
 ## Prevalent vs Indident cases
-| Incident cases | Prevalent cases |
-| :--------------: | :---: |
-| *new* cases (of disease) | *all* cases (of disease) |
-| individuals who change in status over a specific period of time | individuals with outcome of interest, regardless of when diagnosed |
-| calculate rates, risks | calculate prevalence |
+|                          Incident cases                          |                           Prevalent cases                          |
+|:----------------------------------------------------------------:|:------------------------------------------------------------------:|
+|                      *new* cases of disease                      |                       *all* cases of disease                       |
+| individuals who change in status over a specified period of time | individuals with outcome of interest, regardless of when diagnosed |
+|                      calculate rates, risks                      |                        calculate prevalence                        |
 
 **Eg**: Imagine you have a repo of c++ files. Each c++ file in the repo is a prevalent case. When you add new c++ files to the repo, these are still *prevalent cases*, but since they are new, they are also called *incident cases*. Each c++ file removed from the repo represents a death/recovery.
 ## Prevalence
@@ -24,15 +24,18 @@ For more details, look at the attached handouts.
 * Useful for planning health services.
 * Note that population is health outcome specific. You wouldn't want to include the whole population of the US in the denominator if you're trying to calculate the prevalence of abortion of women between the age of 12 to 19.
 * A time period is crucial here, without this the result wouldn't be called prevalence. So also called as a *cross-sectional* measure because it measures the health outcome at once slice in time
+
 **Eg**: 11% of the us population of age over 65 has alzheimer's disease.
 ### Analogy
 Let's use the above example of my c++ repo. Suppose the repo's on disk X. The *prevalence* is the space the repo has on the disk to the total available space on the disk at a specific point in time, like now.
 ### Two types of prevalence measurements
 #### Point prevalence
 - Prevalence at one point in time.
+
 **Eg**: "do you *currently* have asthma?"
 #### Period prevalence 
 - Prevalence over a specific period of time, divided by the number of the population in that period of time.
+
 **Eg**: "have you had asthma in the last **3 years**?"
 ### Example
 * 500 men with lung cancer
