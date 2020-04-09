@@ -8,9 +8,9 @@ For more details, look at the attached handouts.
 4. **Odds**: out of 100 births, the probability of having a boy is 51% and having a girl is 49%. Therefore, the odds of having a boy is 51 to 49 = 1.04
 ## Prevalent vs Indident cases
 | Incident cases | Prevalent cases |
-| :-------------- :| :---:|
+| :-------------- : | :---: |
 | *new* cases (of disease) | *all* cases (of disease) |
-| individuals who change in status over a specific period of time | individuals with outcome of interest, regardless of when diagnosed|
+| individuals who change in status over a specific period of time | individuals with outcome of interest, regardless of when diagnosed |
 | calculate rates, risks | calculate prevalence |
 
 **Eg**: Imagine you have a repo of c++ files. Each c++ file in the repo is a prevalent case. When you add new c++ files to the repo, these are still *prevalent cases*, but since they are new, they are also called *incident cases*. Each c++ file removed from the repo represents a death/recovery.
