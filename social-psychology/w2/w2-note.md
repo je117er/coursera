@@ -70,3 +70,23 @@ and will encounter a man in need on the way to the speech location
 - The attitude is easy to recall and has been stable over time.
 - People are made aware of themselves and their attitudes.
 - Outside influences are kept to a minimum.
+## Cognitive dissonance and self-perception
+- to explain dissonance.
+- According to Festinger's theory of cognitive dissonance, people are generally motivated to reduce/avoid psychological inconsistencies, aka, can't hold two psychologically opposing thoughts at the same time.
+### Self-perception theory
+- People infer their internal states (traits, beliefs) through their behavior. Both the observer and the observed are one.
+## Two flavors of dissonance
+### Predecisional dissonance
+- Disonnance influencing people before they make decisions
+> Although it is superficially striking to observe people choosing to eat a worm, the more impressive aspect of these findings is the degree to which people will change their conceptual system to make sense of the random events of their lives."
+- **Eg**: people think that they're brave. Now you want them to eat a worm, they'll rationalize it that eating a worm isn't all that bad.
+- Ronald Comer and James Laird
+### Postdecisional dissonance
+- Opposite of the above
+- **Eg**: feeling more confident about your choice after you've made it to reduce to dissonance of having made that choice if it turns out to be the wrong one.
+### How universal is cognitive dissonance
+- The form it takes change from country to country:
+	- Westerners being concerned about inconsistencies that'll suggest they're incompetent or bad in some way.
+	- Easterners worrying about social rejection resulting from *bad* choices and behaviors.
+### How useful is cognitive dissonance
+- To reduce cheating, make people sign a honor code before the exam, instead of after.
