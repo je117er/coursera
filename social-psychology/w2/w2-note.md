@@ -90,3 +90,40 @@ and will encounter a man in need on the way to the speech location
 	- Easterners worrying about social rejection resulting from *bad* choices and behaviors.
 ### How useful is cognitive dissonance
 - To reduce cheating, make people sign a honor code before the exam, instead of after.
+## The science of persusaion and social influene
+### How to be persuasive
+Questions: If you wanna be persuasive, is it good to:
+1. Discuss counter-arguments to your position?
+	* when the counter-arguments are salient
+	* when the receiver is highly intelligent or opposed to your position
+		* "I know it's xyz, but here's why it's wrong about xyz."
+	* **attitude inoculation**: mildy criticize the position people hold.
+		* in a two-sided appeal, you raise counter-arguments then explain while they're wrong, contrast with attitude inoculation, you only tell the other person why their person is wrong.
+2. Use a central (fact-filled) rout to persuasion
+	* Central: based on facts, statistics, and arguments: works for highly involved and motivated receiver.
+	* Peripheral: uses music, idyllic settings, attractive models, or other incidental cues: works best when the receiver isn't critical.
+3. Use fearmongering?
+	* Fear appeals are effective as long as you have a plan with specific steps people can take to avoid the threat. Without a plan to avoid the threat fear appeals can backfire and lead to denial of the threat.
+		* "If you don't vote for Trump, the US will lose the trade war to China!"
+## Secrets from the science of persuasion
+- Nice to have all available information before making a decision, but nah, time so let's use some heuristics (ethically) instead:
+	1. Reciprocity: be the first to give, personalized, and unexpected.
+	2. Scarcity: benefits and what's unique about your product and what they stand to lose
+	3. Authority: credible knowledgable expert.
+	4. Consistency: looking/asking for small commitment that can be made first (foot-in-the-door technique)
+	5. Liking: 
+		1. people who are similar to us.
+		2. people who pay us compliments.
+		3. people who cooperate with us. 
+	6. Consensus: people look to what people do to determine if they should do something.
+## The ins and outs of social influence
+- Warning about a bad behavior comes at a cost of normalizing it
+### Some effective social influence techniques
+- Asking people to imagine/predict doing something
+- Telling a stranger your name before making a request
+- Talk with people rather than at people.
+- "I'm collecting money for the American Cancer Society. Would you be willing to help by giving a donation? *Even a penny will help.*"
+> people become, in their own eyes, "the kind of person who does this sort of thing, who agrees to requests made by strangers... who cooperates with good causes"
+
+- face-in-the-door technique: throw the larger request first, then introduce the smaller, incorporate the principle of reciprocity into this as well.
+- low-ball technique: once you get somebody to commit to a request, you can increase the level of commitment without them withdrawing from the commitment (not too much ofc.)
