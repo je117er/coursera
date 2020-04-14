@@ -19,3 +19,15 @@
 - Le mot autisme signifie un repli sur soi-même dans l'imaginaire.
 - Louise Despert décrit dans un article sur la schizophrénie chez l'enfant en 1938.
 - L'enfant autiste n'hallucine pas et l'autisme était present dès la naissance, selon Kanner.
+## Kanner le pionnier
+- Père de pédopsychiatrique aux États-Unis.
+- Autisme infantile
+### Observations de Kanner
+- Communication: Y a des répétitions, des actes et des paroles monotones, de l'écholalie retardée, une comprehension littérale.
+- Interactions sociales: 
+	+ Difficulté à établir une lien affectif avec l'autre.
+	+ Une incapacité à établir des relations, n'ont une attitude anticipatrice lors de l'initiation d'une interaction
+- Sphère d'intérêt: limitation dans la variété de l'activité spontanée, un manque de curiosité ou d'intérêt pour la nouveauté, peut-être une fixation plus grande autour d'intérêt plus spécifiques.
+	+ L'obsession anxieuse de la permanence - cette sensibilité à la permanence des objets qui structurent leur environnement et à l'émotionalité génère un changement.
+- Lorna Wing: l'autisme est un trouble davantage cognitif qu'affectif
+- La révolution du diagnostique psychiatrque dans les années 70s menant au DSM-III a ouvert le champ à une inclusion de l'autisme comme trouble spécifique, distinct des troubles schizophréniques.
