@@ -31,3 +31,11 @@
 	+ L'obsession anxieuse de la permanence - cette sensibilité à la permanence des objets qui structurent leur environnement et à l'émotionalité génère un changement.
 - Lorna Wing: l'autisme est un trouble davantage cognitif qu'affectif
 - La révolution du diagnostique psychiatrque dans les années 70s menant au DSM-III a ouvert le champ à une inclusion de l'autisme comme trouble spécifique, distinct des troubles schizophréniques.
+## Autisme, due premier diagnostic au spectre
+- Nouvelle catégorie: troubles neurodéveloppmentaux dans DSM-V et la severité.
+- Before: aspergers, pervasive development disorder.
+- Symptoms are grouped, and there's 3 levels of severities.
+- One big spectrum to ensure stability over different places of diagnosis, to remove false positives.
+- The introduction of social communication disorder, 50% of traits of which is identical to that of ASD, so people with the former will not have access to methodologies for the latter.
+- Diagnostic instruments are meant to be used by clinicians.
+- Women may have different symptomps than men, also for adults, vs. kids.
