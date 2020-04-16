@@ -39,3 +39,14 @@
 - The introduction of social communication disorder, 50% of traits of which is identical to that of ASD, so people with the former will not have access to methodologies for the latter.
 - Diagnostic instruments are meant to be used by clinicians.
 - Women may have different symptomps than men, also for adults, vs. kids.
+## Épidemiologie et historique des causes
+- À partir de 2010, c'est plus qu'une personne pour 100 qui est affectée d'autisme. On a les questions:
+	- Cette augmentation est bien réelle?
+	- Est-ce qu'il s'agit d'un changement inquiétant dans les facteurs de risque de notre société ou de notre environnement?
+	- Est-ce qu'on porte un regard different comme professionnel sur le TSA?
+	- Est-ce qu'il y a une forme de mode ou une exploitation économique de ce diagnostic?
+- C'est trois facteurs en combinason:
+	- Environnement: par exemple, augmentation de l'âge parental, 10%
+	- Amélioration des outils diagnostiques, 25%
+	- Awareness: 15%
+	- Inconnue, qui probablement contient les facteurs environnemantaux au dessus. C'est les facteurs inconnus que se concentrent aujourd'hui les recherches en neurobiologie.

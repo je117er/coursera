@@ -60,3 +60,20 @@ If I say, "I...," then I thereby... .
 - It has to be said in right circumstances:
 If I say, "I...," in appropriate circumstances, then I thereby... .
 - Arguments are speech acts.
+### Conversational acts
+- To bring about a change in the world.
+- The conversational act does not occur when the effect does not occur.
+- The effect occurs at a later time, compared to a speech act's, which occurs at the time of utterance.
+#### Conversational maxims
+- By Paul Grice, to use when speakers are cooperating with each other.
+- Quantity: Don't say more than what's required of you, but don't say too little the other person won't know what you're intended to convey
+- Quality: Don't say what you don't believe in (aka don't lie) or what you have no justification for believing in.
+- Relevance: be relavant.
+- Manner:
+	- be brief
+	- be orderly
+	- avoid obscurity
+	- avoid ambiguity
+- Just because the waiter says that you can only have cake or ice-cream, while prepares to serve his favorite customer pie, doesn't mean he's lying to you. He didn't say anything incorrect either, but certainly he's violating the conversational maxim of quantity by omitting relavant information.
+- Conversation implication **is not** logical implication. When you don't like the premise of an argument because it violates the conversational maxim, you can't refute the argument based on that alone because the conclusion doesn't necessarily not follow from the premise.
+
