@@ -23,3 +23,12 @@
 	- moins de jeux sociaux ou jue imaginatif.
 	- moins de jeu avec les autres.
 	- difficulté à ajuster le comportement au contexte sociale.
+### Le domaine de Comportements Restreints et répétitifs
+- le flapping.
+- l'écholalie.
+- l'intolerance de changements
+### Les aspects sensoriels
+- Considérés comme des symptômes du domaine des comportements ou intérêts restreints et répétitifs
+- particularités sensorielles:
+	- hyper ou hypo-réactivité sensorielle
+	- intérêt inhabituel pour les aspects sensoriels de l'environnement.
