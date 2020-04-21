@@ -32,3 +32,6 @@
 - particularités sensorielles:
 	- hyper ou hypo-réactivité sensorielle
 	- intérêt inhabituel pour les aspects sensoriels de l'environnement.
+- There's heterogeneity among people diagnosed with asd.
+- The percentage of people with asd with talents is extremely rare.
+- There's a lot of cases where a person just doesn't have enough symptoms to get an asd diagnosis, so the diagnostician needs to look at their history to see if they'd encountered difficulties related possible autistic traits in the past and how their current life is getting affected.
