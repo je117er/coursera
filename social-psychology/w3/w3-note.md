@@ -31,3 +31,9 @@
 
 	- deindividuation doesn't discriminate gender
 	- degrees of deindividuation correlates with size of the group.
+- "situation matters". Don't misinterpret this.
+> situational factors sometimes override the best of intentions and lead good people to do bad things.
+### 2 bedrock principles governing research
+- informed consent
+- right to withdraw.
+
