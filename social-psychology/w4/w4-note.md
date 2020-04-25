@@ -38,4 +38,19 @@
 - do assessments of real risks and risks when you don't take action
 - own up to your beliefs, and don't attribute that to others'.
 - confront the group, on what you all agree on.
+## Prejudice, stereotyping, and intergroup biases
+- Categorical thinking is discrete, socially construct??? Where to draw the line?
+- A person could be:
+	- Genetically male.
+	- Anatomically female.
+	- Hormonally male
+	- Behaviorally male
+- Is it possible for somebody to be genetically and hormonally different? What the hell is male behavior? This lecture is really unhelpful.
+- 1 in 100 white people has black ancestors, fair enough.
+- 75 to 90% of black people have white ancestors, also fair.
+- What the hell, what model parents, damn:
+> No matter what was written in the Bible or any historical document, I can't believe in a God who would not love my Noah [a transsexual boy] for exactly the way he is
 
+- Biology loves differences, society doesn't, which is true.
+- Gender and sex are not the same, ffs.
+- Wtf "homosexuality is exclusively a human construct" What the hell is the course headed to? Animals kill, too, so should humans?
