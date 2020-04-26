@@ -54,3 +54,24 @@
 - Biology loves differences, society doesn't, which is true.
 - Gender and sex are not the same, ffs.
 - Wtf "homosexuality is exclusively a human construct" What the hell is the course headed to? Animals kill, too, so should humans?
+## The minimal group: from dots to discrimination in 60 seconds
+### Ingroups and out groups
+- focusing on groups often:
+	- changes how we see the individuals or elements within the groups
+	- leads us to see one group as better or worse than another.
+- ingroup bias: tendency to favor one's own group or see it as superior to an outgroup.
+> many forms of discrimination and bias may develop not because outgroups are hated, but because positive emotions such as admiration, sympathy, and trust are reserved for the ingroup and withheld from outgroups.
+
+- the results of minimal group research don't mean that prejudice and discrimination are merely a matter of superficial group dynamics. prejudice is also a function of culture, politics, history, and economics.
+- there's technique to avoid ingroup bias?
+### Intergroup biases don't feel like biases.
+- the outgroup homogeneity bias: a tendency to see outgroup members as more alike than ingroup members.
+- reducing members of an outgroup to a single identity is just one step away from stereotyping them.
+- the effect is strongest when:
+	- the ingroup is relatively large
+	- the ingroup and outgroup are enduring, real-life groups, not artificial ones created in a lab.
+- if the ingroup is small and the attibutes in question are important to its identity or stereotypically associated with the group, the effect may disappear or even reverse.
+- benovelent sexism:
+> some forms of sexism are, for the perpetrator, subjectively benevolent, characterizing women as pure creatures who ought to be protected, supported, and adored... This idealization of women simultaneously implies that they are weak and best suited for conventional gender roles; being put on a pedestal is confining, yet the man who places a woman there is likely to interpret this as cherishing, rather than restricting, her (and many women may agree.)
+
+- discrimination and bias often have less to do with attitudes towarrd the outgroup than with ingroup favoritism - that is, preferring the ingroup over the outgroup.
