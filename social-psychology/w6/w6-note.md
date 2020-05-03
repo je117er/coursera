@@ -90,4 +90,14 @@ Why nonviolent as well though?
 	- demand compensation, i.e. harassing, embarassing, or cheating the exploiter.
 	- retaliating, if all else fails.
 - When in conflict, don't assume the other fails to share your values and morality. Rather, compare perceptions, assuming the other is likely perceiving the situation differently.
-
+## Taking the third side
+### Principles negotiation
+- separate the problem from the people.
+- focus on the underlying interests rather than positions.
+- generate a variety of options before deciding what to do.
+- insist that the result be based on some objective standard.
+### Some ways to take the third side
+- in *mediation*, a third party works to resolve a conflict by facilitating communication and offering suggestions.
+- in *arbitration*, a third party studies both sides of a conflict and imposes a settlement.
+	- in *binding arbitration*, the two sides agree in advance to accept whatever solution the arbitrator decides.
+	- in *final offer arbitration*, each side submits its best offer, and the arbitrator chooses which one will be accepted.
