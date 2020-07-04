@@ -15,3 +15,22 @@
 - Hedonic adaptation: people get unintested in new things easily, so they start seeking for more novelty.
 - A corollary of hedonic adaptation: when you can't change one aspect of your life, instead of continuing resenting it, you start from tolerating to liking it, eventually.
 - Social relationship is one of the things that make us happy. Happiness can spread like wildfire in the social network.
+- Turns out people think exercising makes them the most happy and watching TV the least.
+- Social bond is important, living in a cold climate might make you happier than living by a sandy beach.
+- People who give are happier than those who are less inclined to give.
+- "If you think money doesn't buy happiness, you're probably not spending it right."
+### Intimacy
+- Frienship/relationship has a close relationship with proximity, in other words, how close you are to each other. That's the thing people like each other have in common.
+- Also, similarity:
+	- age and education level.
+	- race and ethnicity
+	- personality and attitudes.
+	- economic status.
+	- physical characteristics.
+- "Opposites attract" isn't backed by research.
+- Physical attractiveness, when first dating, might be more important than other attributes, like personality.
+- Actually it's men who fall in love faster and are slower to end a relationship, not women.
+#### What makes a relationship successful
+- Again, similarity.
+- One negative thing has to be made up by five positive things.
+- Shit, you just can't overgeneralize what'll make a relationship works, because it varies over many different situations.
