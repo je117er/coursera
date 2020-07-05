@@ -13,3 +13,16 @@
 	- (2) Premise
 	_______________________
 	(three dots) conclusion (from 1 and 2)
+## A problem for arguments
+- Simple rule of thumb: You shouldn't believe the conclusion if you don't think the premises are true.
+- But if you require justification for every premise, the problem quickly becomes skeptical regress (the chain of needing to prove premises never ceases.)
+- Solutions to skeptical regress:
+	- give an unjustified premise.
+	- use circular arguments
+	- use an infinite chain of arguments.
+		- example: there is life on mars <= there's at least one bacterium one mars <= there's at least two bacteria on mars <= so and and so forth.
+- Tricks for dealing with the skeptical regress in everyday life
+	- assure the audience, by appealing to authority.
+	- discount objection
+	- guard your claim by saying "probably", for example.
+
